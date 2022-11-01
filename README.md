@@ -4,7 +4,7 @@
 
 ### 1 модуль
 
-1. [**Исследование объявлений о продаже квартир**](https://github.com/EvgeniyaIvanisova/DA_projects/tree/main/1st%20module%20projects/1%20real%20estate%20market%20analysis)
+1. [**Исследование объявлений о продаже квартир**](https://github.com/EvgeniyaIvanisova/DA_projects/blob/main/1st%20module%20projects/1%20real%20estate%20market%20analysis/real%20estate%20market%20analysis%20project.ipynb)
 
 * Выполнена предобработка и подготовка данных
 * Изучены параметры объектов недвижимости
@@ -15,7 +15,7 @@
 
 **Стек**: `Python`, `Pandas`, `Matplotlib`
 
-2. [**Исследование популярности компьютерных игр**](https://github.com/EvgeniyaIvanisova/DA_projects/tree/main/1st%20module%20projects/2%20analysis%20of%20patterns%20that%20determine%20the%20success%20of%20games%20%20(final%20project%201st%20module))
+2. [**Исследование популярности компьютерных игр**](https://github.com/EvgeniyaIvanisova/DA_projects/blob/main/1st%20module%20projects/2%20analysis%20of%20patterns%20that%20determine%20the%20success%20of%20games%20%20(final%20project%201st%20module)/analysis%20of%20computer%20games%20success%20project.ipynb)
 
 * Выполнена предобработка данных.
 * Выбран актуальный период для анализа.
@@ -31,7 +31,7 @@
 
 ### 2 модуль
 
-1. [**Исследование эффективности рекламных кампаний приложения**](https://github.com/EvgeniyaIvanisova/DA_projects/tree/main/2nd%20module%20projects/1%20app%20loss%20analysis)
+1. [**Исследование эффективности рекламных кампаний приложения**](https://github.com/EvgeniyaIvanisova/DA_projects/blob/main/2nd%20module%20projects/1%20app%20loss%20analysis/app%20loss%20analysis%20project.ipynb)
 
 * Выяснено из каких стран пользователи приходят в приложение, какими устройствами они пользуются для входа и какие рекламные источники их привели, а также какая доля платящих пользователей среди общего количества.
 * Установлены траты на каждый рекламный источник и посчитана CAC.
@@ -40,7 +40,7 @@
 
 **Стек**: `Python`, `Pandas`, `Numpy`, `Matplotlib`
 
-2. [**Приоритизация гипотез по увеличению выручки в интернет-магазине, анализ A/B-теста**](https://github.com/EvgeniyaIvanisova/DA_projects/tree/main/2nd%20module%20projects/2%20ab-test%20results%20analysis)
+2. [**Приоритизация гипотез по увеличению выручки в интернет-магазине, анализ A/B-теста**](https://github.com/EvgeniyaIvanisova/DA_projects/blob/main/2nd%20module%20projects/2%20ab-test%20results%20analysis/Analysis_of_AB-test_results_project.ipynb)
 
 **Часть 1**. Выявлены наиболее приоритетные гипотезы с помощью фреймворков ICE и RICE. Определено, почему итоговые результаты для фреймворков различаются.
 
@@ -55,7 +55,7 @@
 
 Стек: `Python`, `Pandas`, `Numpy`, `Matplotlib`, `Scipy`
 
-3. [**Анализ пользовательского поведения в мобильном приложении**](https://github.com/EvgeniyaIvanisova/DA_projects/tree/main/2nd%20module%20projects/3%20analysis%20of%20user%20behavior%20in%20mobile%20app%20(final%20project%202nd%20module))
+3. [**Анализ пользовательского поведения в мобильном приложении**](https://github.com/EvgeniyaIvanisova/DA_projects/blob/main/2nd%20module%20projects/3%20analysis%20of%20user%20behavior%20in%20mobile%20app%20(final%20project%202nd%20module)/funnel%20analysis%20and%20ab-testing%20results%20analysis.ipynb)
 
 
 * Выполнена предобработка и проверка корректности данных
