@@ -10,4 +10,4 @@
 2. Определить, на каких шагах «застревает» наибольшее количество пользователей.
 3. По результатам A/A/B-эксперимента опеределить, стоит ли менять шрифты в приложении.
 
-Некоторые графики GitHub корректно не отображает, можно посмотреть проект :point_right:[тут](https://nbviewer.org/github/EvgeniyaIvanisova/DA_projects/blob/main/2nd%20module%20projects/3%20analysis%20of%20user%20behavior%20in%20mobile%20app%20%28final%20project%202nd%20module%29/funnel%20analysis%20and%20ab-testing%20results%20analysis.ipynb)  
+:bar_chart: Некоторые графики GitHub корректно не отображает, можно посмотреть проект :point_right:[тут](https://nbviewer.org/github/EvgeniyaIvanisova/DA_projects/blob/main/2nd%20module%20projects/3%20analysis%20of%20user%20behavior%20in%20mobile%20app%20%28final%20project%202nd%20module%29/funnel%20analysis%20and%20ab-testing%20results%20analysis.ipynb)  
